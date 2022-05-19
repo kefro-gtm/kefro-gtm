@@ -1,0 +1,3 @@
+-I'm Kefro
+-I'm interested in learning how to code and computer science
+-I'm currently learning via The Oden Project
